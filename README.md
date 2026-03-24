@@ -13,8 +13,7 @@ understanding of user queries in banking customer-support scenarios.
 
 ## 🚀 Live Demo (Hugging Face Space)
 
-🔗 **Try the App Here:**  
-https://huggingface.co/spaces/NauRaa/ChatBot_Banking
+🔗 **https://huggingface.co/NauRaa/banking77-intent-model**  
 ---
 
 ## 🤖 Model Details
